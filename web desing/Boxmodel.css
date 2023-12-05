@@ -1,0 +1,29 @@
+body
+{
+    background-color: aqua;
+}
+h1
+{
+    color: blueviolet;
+    text-align: center;
+}
+h2
+{
+    color: black;
+    margin-left: 0%;
+
+}
+div {
+    width: 500px;
+    height: 350px;
+    padding: 10px;
+    border: 5px solid gray;
+    margin: 100px;
+  }
+  img{
+    margin-left :250px;
+     width: 50%;
+  
+}
+
+  
